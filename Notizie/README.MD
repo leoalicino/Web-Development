@@ -52,7 +52,7 @@ Il nome "Il Quaroit" e i riferimenti alla città di Corato sono scelti a scopo p
 
 | Home Page | Sidebar Aperta |
 | :---: | :---: |
-| ![Home Page](./screenshots/homepage.png) | ![Sidebar](./screenshots/sidebar.png) |
+| ![Home Page](./Screenshots/homepage.png) | ![Sidebar](./Screenshots/Sidebar.png) |
 
 ---
 
