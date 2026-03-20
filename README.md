@@ -25,7 +25,7 @@ Nel corso di queste esercitazioni ho approfondito l'utilizzo delle seguenti tecn
 | **[Il Quaroit](./Notizie)** | PHP, XML, CSS | Aggregatore di news dinamico con parsing XML da fonti reali (Repubblica.it). |
 | **[Meteo App](./Meteo-App-Geolocalizzata)** | JS, API, JSON | Applicazione meteo con geolocalizzazione automatica tramite browser. |
 | **[Codice Fiscale](./Calcola-CF-Web)** | JavaScript, UX | Algoritmo di calcolo e validazione dei dati anagrafici per la generazione del CF. |
-| **[Fuel Calculator](./Calcolatore-Costo-Carburante)** | Logic, JS | Tool per il calcolo dei consumi, delle distanze e dei costi di viaggio. |
+| **[Calcolatore Benzina](./Calcolatore-Costo-Carburante)** | Logic, JS | Tool per il calcolo dei consumi, delle distanze e dei costi di viaggio. |
 
 ---
 
