@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script src="index.js"></script>
+  <link rel ="website icon" type="image" href="finestra.png">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css">
+
+  <title>Calcola Carburante</title>
+</head>
+
+<body>
+  <div class="contenitore">
+    <br>
+    <h2 class="titolo"><b>Calcolo Carburante</b></h2>
+    <img src="logo.jpg" id="img">
+
+  <br> <br>
+    <input type="text"  class="form" id="consumo" placeholder="Consumo medio (L/100KM)">
+    <input type="text"  class="form" id="kilometri" placeholder="Distanza">
+    <input type="text"  class="form" id="costo" placeholder="Costo Carburante">
+  <div>
+
+  <div class="wrapper">
+  <input type="radio" name="select" id="option-benzina">
+  <input type="radio" name="select" id="option-diesel">
+  <input type="radio" name="select" id="option-gpl">
+  <label for="option-benzina" class="option option-benzina" id="benzina">
+    <div class="dot"></div>
+    <span>Benzina</span>
+  </label>
+  <label for="option-gpl" class="option option-gpl" id="gpl">
+    <div class="dot"></div>
+    <span>Gpl</span>
+  </label>
+  <label for="option-diesel" class="option option-diesel" id="diesel">
+    <div class="dot"></div>
+    <span>Diesel</span>
+  </label>
+ 
+  </div>
+    <input type="submit" id="button" value="Calcola" onclick="getDati()">
+    <p id="risultato"></p>
+    <br>
+  </div>
+  </div>
+</body>
+</html>
