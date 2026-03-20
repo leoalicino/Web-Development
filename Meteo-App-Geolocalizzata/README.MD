@@ -26,3 +26,12 @@ L'app è stata realizzata a scopo didattico per testare la comunicazione Client-
 1. Scarica la cartella.
 2. Apri `index.html` nel tuo browser.
 3. Accetta la richiesta di posizione per vedere il meteo locale!
+
+## 📸 Anteprima del Progetto
+
+| Interfaccia Meteo | 
+| :---: | 
+| ![Home Page](./homepage.png) | 
+
+---
+**Sviluppato da leoalicino**
