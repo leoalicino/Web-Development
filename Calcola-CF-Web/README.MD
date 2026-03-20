@@ -19,3 +19,12 @@ Un'applicazione web interattiva che permette di generare il codice fiscale itali
 
 ## 🚀 Come testarlo
 Basta scaricare la cartella e aprire il file `index.html` in qualsiasi browser moderno. Non serve un server locale.
+
+## 📸 Anteprima del Progetto
+
+| Home Page | 
+| :---: | 
+| ![Home Page](./homepage.png) | 
+
+---
+**Sviluppato da leoalicino**
