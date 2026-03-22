@@ -1,4 +1,4 @@
-# 🚀 Web Development Journey - Portfolio Esercitazioni
+# 🚀 Web Development - Portfolio Esercitazioni
 
 Benvenuti nel mio repository dedicato allo sviluppo web. Questa collezione raccoglie i progetti principali realizzati durante il mio percorso di studi, focalizzandosi sull'apprendimento di logiche di programmazione, gestione dei dati e interfacce utente dinamiche.
 
@@ -32,4 +32,4 @@ Nel corso di queste esercitazioni ho approfondito l'utilizzo delle seguenti tecn
 ## 🎓 Obiettivi Formativi
 Questi esercizi rappresentano l'evoluzione delle mie competenze tecniche: dalla gestione di script logici per il calcolo matematico fino alla creazione di architetture più complesse che comunicano con API esterne e server. L'obiettivo principale è stato padroneggiare la **logica di programmazione** applicata al web, garantendo codice pulito e funzionale.
 
-**Developed with 💻 and Passion by [leoalicino](https://github.com/leoalicino)**
+**Developed with 💻 by [leoalicino](https://github.com/leoalicino)**
